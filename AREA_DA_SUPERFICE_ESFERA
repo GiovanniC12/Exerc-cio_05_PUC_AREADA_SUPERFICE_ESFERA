@@ -1,0 +1,6 @@
+import math
+
+print ("informe o valor do raio:")
+raio=float(input())
+area=4*math.pi*raio**2
+print("area da esfera:", area)
